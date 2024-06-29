@@ -1,0 +1,120 @@
+{
+	"cloud": 
+	[
+		{ "name": "icloud", "link": "https://beta.icloud.com" },
+		{ "name": "gdrive", "link": "https://drive.google.com/drive/u/0/my-drive" },
+		{ "name": "onedrive", "link": "https://onedrive.live.com" }
+	],
+
+	"mail" :
+	[
+		{ "name": "gmail", "link": "https://mail.google.com/mail/u/0/?hl=it#inbox" },
+		{ "name": "outlook", "link": "https://outlook.live.com/mail/0/" },
+		{ "name": "poste pec", "link": "https://webmail.postecert.it/certmail/index-rui.jsp?v=3.0.86.0#" }
+	],
+
+    "manga": 
+	[
+        { "name": "a story about a grandpa & granma", "link": "https://mangakatana.com/manga/a-story-about-a-grandpa-and-grandma-who-returned-back-to-their-youth.23710" },
+        { "name": "baki rahen", "link": "https://mangakatana.com/manga/baki-rahen.27070" },
+        { "name": "boku no hero academia", "link": "https://mangakatana.com/manga/boku-no-hero-academia.551" },
+        { "name": "chainsaw man", "link": "https://mangakatana.com/manga/chainsaw-man.21890" },
+        { "name": "dai dark", "link": "https://mangakatana.com/manga/dai-dark.22430" },
+        { "name": "hundred ghost stories", "link": "https://mangakatana.com/manga/hundred-ghost-stories-of-my-own-death.26032" },
+        { "name": "juujika no rokunin", "link": "https://mangakatana.com/manga/juujika-no-rokunin.25073" },
+        { "name": "kengan omega", "link": "https://mangakatana.com/manga/kengan-omega.22093" },
+        { "name": "nagatoro", "link": "https://mangakatana.com/manga/please-dont-bully-me-nagatoro.19551" },
+        { "name": "onepunch-man", "link": "https://mangakatana.com/manga/onepunch-man.437" },
+        { "name": "sakamoto days", "link": "https://mangakatana.com/manga/sakamoto-days.25740" },
+        { "name": "senpai ga urusai kouhai no hanashi", "link": "https://mangakatana.com/manga/senpai-ga-urusai-kouhai-no-hanashi.20036" },
+        { "name": "sousou no frieren", "link": "https://mangakatana.com/manga/sousou-no-frieren.24578" }
+    ],
+
+    "personale": 
+	[
+        { "name": "aci", "link": "https://www.aci.it" },
+        { "name": "agenzia delle entrate", "link": "https://www.agenziaentrate.gov.it/portale/home" },
+        { "name": "comune di cagliari", "link": "https://www.comune.cagliari.it/portale" },
+        { "name": "il portale dell'automobilista", "link": "https://www.ilportaledellautomobilista.it/web/portale-automobilista/home" },
+        { "name": "myanpal", "link": "https://myanpal.anpal.gov.it" },
+		{ "name": "poste italiane", "link": "https://www.poste.it" },
+        { "name": "sardegna lavoro", "link": "https://www.sardegnalavoro.it" },
+		{ "name": "upwork", "link": "https://www.upwork.com/" }
+    ],
+
+    "resources": 
+	[
+        { "name": "advanced bash-scripting guide", "link": "https://tldp.org/ldp/abs/html" },
+        { "name": "apple ui design", "link": "https://developer.apple.com/design/human-interface-guidelines" },
+        { "name": "devdocs", "link": "https://devdocs.io" },
+        { "name": "fullstack", "link": "https://fullstackopen.com/en" },
+        { "name": "must read books", "link": "https://www.reddit.com/r/learnprogramming/comments/83xyow/must_read_books" },
+        { "name": "roadmap webdev", "link": "https://github.com/kamranahmedse/developer-roadmap" },
+        { "name": "php the right way", "link": "https://phptherightway.com" }
+    ],
+
+    "shopping": 
+	[
+        { "name": "aliexpress", "link": "http://it.aliexpress.com" },
+        { "name": "amazon", "link": "http://www.amazon.it" },
+        { "name": "apple", "link": "https://www.apple.com/it" },
+        { "name": "eprice", "link": "http://www.eprice.it" },
+        { "name": "mediaworld", "link": "http://www.mediaworld.it" },
+        { "name": "subito", "link": "http://www.subito.it" }
+    ],
+
+    "socials": 
+	[
+        { "name": "linkedin", "link": "https://www.linkedin.com/feed" },
+        { "name": "telegram", "link": "https://web.telegram.org/#/login" },
+        { "name": "whatsapp", "link": "https://web.whatsapp.com" }
+    ],
+
+    "svago": 
+	[
+		{ "name": "fitgirl", "link": "https://www.1377x.to/user/fitgirl" },
+        { "name": "nahomhd", "link": "https://www.1377x.to/user/nahomhd" },
+        { "name": "nexus mods", "link": "https://www.nexusmods.com" },
+        { "name": "spotify", "link": "https://open.spotify.com" }
+    ],
+
+    "tools": 
+	[
+        { "name": "chat-gpt", "link": "https://chat.openai.com" },
+        { "name": "exrx", "link": "https://exrx.net" },
+        { "name": "github", "link": "https://github.com" },
+        { "name": "overleaf", "link": "https://it.overleaf.com" },
+        { "name": "speedtest", "link": "https://librespeed.org" },
+        { "name": "pdfescape", "link": "http://www.pdfescape.com/open" },
+		{ "name": "sketchup", "link": "https://app.sketchup.com/app" },
+        { "name": "wolfram|alpha", "link": "https://www.wolframalpha.com" }
+    ],
+
+    "utilities": 
+	[
+        { "name": "modem", "link": "http://192.168.1.1" },
+        { "name": "router", "link": "http://192.168.0.1/webpages/index.1476264749915.html" },
+        { "name": "libgen", "link": "https://libgen.is" },
+		{ "name": "project gutenberg", "link": "https://www.gutenberg.org" },
+        { "name": "sci-hub", "link": "https://sci-hub.41610.org" }
+    ],
+
+    "youtube": 
+	[
+        { "name": "dictionary of obscure sorrows", "link": "https://www.youtube.com/c/obscuresorrows/videos" },
+        { "name": "diy perks", "link": "https://www.youtube.com/@diyperks/videos" },
+		{ "name": "fireship", "link": "https://www.youtube.com/@Fireship/videos" },
+        { "name": "isaac arthur", "link": "https://www.youtube.com/@isaacarthur3209/videos" },
+        { "name": "jack pgm", "link": "https://www.youtube.com/@jackpgm/videos" },
+        { "name": "jerryrigeverything", "link": "https://www.youtube.com/@jerryrigeverything/videos" },
+        { "name": "kiwami japan", "link": "https://www.youtube.com/channel/ucg3qsvzheut5_cppcrtoajq/videos" },
+        { "name": "kurzgesagt", "link": "https://www.youtube.com/@kurzgesagt/videos" },
+        { "name": "giorgione", "link": "https://www.youtube.com/@GamberoRossoTube/videos" },
+        { "name": "human safari", "link": "https://www.youtube.com/@HumanSafari/videos" },
+        { "name": "melodysheep", "link": "https://www.youtube.com/@melodysheep/videos" },
+        { "name": "nicolo balini", "link": "https://www.youtube.com/@safariumano/videos" },
+        { "name": "steve1989mreinfo", "link": "https://www.youtube.com/channel/uc2i6et1jkidnnbwgjfimeha/videos" },
+        { "name": "stuff made here", "link": "https://www.youtube.com/@stuffmadehere/videos" },
+        { "name": "veritasium", "link": "https://www.youtube.com/@veritasium/videos" }
+    ]
+}

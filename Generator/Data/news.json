@@ -1,0 +1,50 @@
+{
+	"economy": 
+	[
+        { "name": "bloomberg", "link": "https://www.bloomberg.com/europe" },
+        { "name": "market watch", "link": "https://www.marketwatch.com" },
+        { "name": "the economist", "link": "https://www.economist.com" }
+    ],
+    
+	"magazine": 
+	[
+        { "name": "palladium magazine", "link": "https://www.palladiummag.com" },
+        { "name": "time", "link": "https://time.com" }
+        
+    ],
+    
+	"sardegna": 
+	[
+        { "name": "ansa sardegna", "link": "https://www.ansa.it/sardegna" },
+        { "name": "casteddu online", "link": "https://www.castedduonline.it" },
+        { "name": "l'Unione sarda", "link": "https://www.unionesarda.it" },
+        { "name": "la nuova sardegna", "link": "https://www.lanuovasardegna.it" }
+    ],
+    
+	"science": 
+	[
+		{ "name": "big think", "link": "https://bigthink.com/" },
+        { "name": "live science", "link": "https://www.livescience.com" },
+        { "name": "new scientist", "link": "https://www.newscientist.com" },
+        { "name": "phys org", "link": "https://phys.org" },
+        { "name": "scientific american", "link": "https://www.scientificamerican.com" },
+        { "name": "science news", "link": "https://www.sciencenews.org" }
+    ],
+    
+	"tech": 
+	[
+        { "name": "hacker news", "link": "https://news.ycombinator.com" },
+        { "name": "tech crunch", "link": "https://techcrunch.com" },
+        { "name": "wired", "link": "https://www.wired.com" }
+    ],
+    
+	"world": 
+	[
+        { "name": "associated press", "link": "https://apnews.com" },
+        { "name": "reuters", "link": "https://www.reuters.com" },
+        { "name": "the guardian", "link": "https://www.theguardian.com/international" },
+        { "name": "the new york times", "link": "https://www.nytimes.com/international" },
+        { "name": "the times", "link": "https://www.thetimes.co.uk" },
+        { "name": "wall street journal", "link": "https://www.wsj.com" }
+    ]
+}

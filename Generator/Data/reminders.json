@@ -1,0 +1,46 @@
+{
+	"carte": 
+	[
+        { "desc": "banco posta", "data": "2025-08-01" },
+        { "desc": "carta d'identità", "data": "2032-07-15" },
+        { "desc": "ctm", "data": "2024-07-01" },
+        { "desc": "passaporto", "data": "2033-04-06" },
+        { "desc": "patente", "data": "2033-07-15" },
+        { "desc": "poste pay", "data": "2026-05-01" },
+        { "desc": "tessera sanitaria", "data": "2028-01-12" }
+    ],
+    
+	"compleanni": 
+	[
+        { "desc": "anna rita sanna", "data": "1959-03-12" },
+        { "desc": "antonella sanna", "data": "1956-04-18" },
+        { "desc": "elisa raga", "data": "2000-08-31" },
+        { "desc": "luca lecis", "data": "1991-02-13" },
+        { "desc": "michele usai", "data": "1991-07-15" }
+    ],
+    
+	"fisco": 
+	[
+        { "desc": "730", "data": "2024-06-16" }
+    ],
+    
+	"macchina": 
+	[
+        { "desc": "assicurazione", "data": "2024-07-13" },
+        { "desc": "bollo", "data": "2024-12-01" },
+        { "desc": "revisione", "data": "2025-05-01" }
+    ],
+    
+	"poste": 
+	[
+        { "desc": "firma", "data": "2025-06-17" },
+        { "desc": "pec", "data": "2025-01-05" }
+    ],
+    
+	"salute": 
+	[
+        { "desc": "certificato medico", "data": "2024-07-12" },
+        { "desc": "palestra annuale", "data": "2024-07-13" },
+        { "desc": "palestra entrate", "data": "2023-09-13" }
+    ]
+}
